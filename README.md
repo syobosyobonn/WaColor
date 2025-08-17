@@ -45,8 +45,7 @@
 ```
 
 ## 使用ライセンス(Licenseファイル)
-Freedom-Attribution License 1.0.0<br>
-https://github.com/syobosyobonn/Freedom-Attribution-License
+> CC0 1.0 Universal
 
 ## 作成年/作者
 2024 Syobosyobonn/Zisty 
